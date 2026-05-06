@@ -53,7 +53,7 @@ src/main/java/com/evalpro/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/evalpro-backend.git
+git clone https://github.com/blitzbugg/evalpro-backend.git
 cd evalpro-backend
 ```
 
